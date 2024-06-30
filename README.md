@@ -1,2 +1,2 @@
-# mod2-solution
-Coursera Web Dev course - Module 2 Coding Assignment
+# HTML, CSS, and Javascript for Web Developers
+Coursera Web Dev course
